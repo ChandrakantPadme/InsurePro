@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  margin: 20px;
+}
+
+.results {
+  margin-top: 20px;
+}
+
+.month-report {
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin: 10px 0;
+}
